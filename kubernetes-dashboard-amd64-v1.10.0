@@ -1,0 +1,2 @@
+FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.0
+MAINTAINER majp <mjp_ln@163.com>
